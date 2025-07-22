@@ -57,6 +57,6 @@ The bot helps users set personal reminders via private chat. It is designed to b
    
 ## 🤝 Contributing
 
-Feel free to open issues or pull requests. Suggestions for new languages, features, or improvements are welcome
+Feel free to open issues or pull requests. Suggestions for a new features, or improvements are welcome
 
 ---
