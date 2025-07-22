@@ -49,7 +49,12 @@ The bot helps users set personal reminders via private chat. It is designed to b
    ```bash
    npm start
    ```
-
+   
+   Or with hot-reload during development:
+   ```bash
+   npx ts-node src/bot.ts
+   ```
+   
 ## 🤝 Contributing
 
 Feel free to open issues or pull requests. Suggestions for new languages, features, or improvements are welcome
